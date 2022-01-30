@@ -1,3 +1,40 @@
 body{
     font-family: 'Poppins', sans-serif !important;
 }
+img{
+    transition: 0.5s ease-in-out;
+}
+img:hover{
+    transform: scale(1.075);
+}
+.small_text{
+    font-size: 15px;
+    font-weight: 300;
+    color: #E0E0E0;
+}
+
+.top_header_section{
+    background-color: #264653;
+}
+.top_banner_section p{ 
+    font-size: 13px;
+    font-weight: 300;
+    color: #fff;
+}
+.top_banner_section h1{ 
+    font-size: 48px;
+    font-weight: 700;
+    color: #fff;
+}
+.top_banner_section small{
+    font-size: 16px;
+    font-weight: 300;
+    color: #E0E0E0;
+}
+.login_btn a{
+    padding: 8px 24px;
+    font-size: 16px;
+    background-color: #E76F51;
+    color: #fff;
+    border-radius: 5px;
+}
