@@ -38,3 +38,59 @@ img:hover{
     color: #fff;
     border-radius: 5px;
 }
+.fetured_txt h1,
+.latest_news_txt h1,
+.client_section_txt h1,
+.faq_section_txt h1{
+    font-size: 50px;
+    font-weight: 700;
+    margin-bottom: 0;
+}
+.fetured_txt small{
+    font-size: 14px;
+    color: #E76F51;
+    font-weight: 600;
+}
+.btn_link a{
+    border: 1px solid #E76F51;
+    color: #E76F51;
+    outline: none;
+    padding: 8px 25px;
+}
+.btn_link a:hover{
+    background-color: #E76F51;
+    color: #fff;
+}
+.txt_card{
+    font-size: 15px;
+    color: #6C6C6C;
+    font-weight: 300;
+}
+.client_section_txt,
+.faq_section_txt,
+.footer_section{
+    margin-top: 120px;
+}
+.client_section_txt h1 span,
+.faq_section_txt h1 span{
+    color: #E76F51;
+}
+.client_section img{
+    width: 149px;
+    height: 149px;
+}
+.rating_sec{
+    color: #E77C40;
+}
+.rating_area h5{
+    color: #264653;
+}
+.footer_section{
+    background-color: #0B0D17;
+    padding: 35px 15px;
+}
+.useful_link_area,
+.footer_menu_link{
+    font-size: 16px;
+    font-weight: 400;
+}
